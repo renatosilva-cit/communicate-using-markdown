@@ -18,3 +18,7 @@ class Sample() {
 }
 
 ```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introdduce myself to the world
