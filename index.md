@@ -7,3 +7,14 @@
 
 
 ![Image of Robotocat](https://octodex.github.com/images/Robotocat.png)
+
+
+```
+# kotlin expression function
+
+class Sample() {
+
+    fun sum(a: Int, b: Int) = a + b
+}
+
+```
